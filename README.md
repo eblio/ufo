@@ -15,6 +15,6 @@ Drive an UFO in FiveM.
 ## Updates
 No updates yet.
 
-## Note
+## Notes
 * There could be entity networking problems making the ufo invisible for other players.
 * As the camera is handled by the script when you are in the vehicle you willnot be able to turn it as you normally do.
