@@ -9,7 +9,7 @@ Drive an UFO in FiveM.
 * Add ```start ufo``` to you ```server.cfg```.
 
 ## Usage
-* Type ```/ufo``` when in-game and enjoy !
+* Type ```/ufo``` when in-game.
 * Use G to toggle the wheels and E to toggle stationary mode.
 
 ## Updates
