@@ -1,7 +1,7 @@
 # UFO
 Drive an UFO in FiveM.
 
-<img https://imgur.com/IZ3IL5o.png>
+<blockquote class="imgur-embed-pub" lang="en" data-id="IZ3IL5o"><a href="//imgur.com/IZ3IL5o">UFO in FiveM</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Installation
 * Download the resource ;
